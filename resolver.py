@@ -4,7 +4,7 @@ import os
 # MUISTA: KORVAA TÄMÄ OMALLA API-AVAIMELLASI!
 # Oikeassa toteutuksessa käyttäisit mieluummin ympäristömuuttujaa
 # Esim. client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-API_KEY = "[SINUN_OPENAI_TAI_GEMINI_API_AVAIN_TÄHÄN]" 
+API_KEY = "[AIzaSyDWL5MwkVzi7yJgSeCcXN0ntFLd3A8CVrA]" 
 
 client = OpenAI(api_key=API_KEY) 
 
